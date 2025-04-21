@@ -21,9 +21,11 @@ Aplicação web desenvolvida em React para listar pedidos e exibir detalhes util
    cd painel-de-pedidos
 
 2. Instale as dependencias:
-   ``` npm install
+   ``` 
+   npm install
 
 3. Rode o projeto:
-    ``` npm run dev
+    ``` 
+    npm run dev
 
 

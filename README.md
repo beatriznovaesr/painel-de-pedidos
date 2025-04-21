@@ -4,7 +4,7 @@ Aplicação web desenvolvida em React para listar pedidos e exibir detalhes util
 
 ---
 
-##  Tecnologias
+##  Tecnologias utilizadas:
 
 - React
 - Vite
@@ -13,7 +13,7 @@ Aplicação web desenvolvida em React para listar pedidos e exibir detalhes util
 
 ---
 
-##  Como rodar o projeto
+##  Como rodar o projeto?
 
 1. Clone o repositório:
    ```
